@@ -23,6 +23,8 @@ github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRF
 github.com/alexandre-normand/figlet4go v1.0.0/go.mod h1:licy68/yfzZwMrVS/nDaXg0L3QTPnsY40m5ywfsfCUQ=
 github.com/alexandre-normand/marcopoller v1.0.0 h1:H/4m1ae7jwIv4qvYOTSYSxS5pRt2oRPjVm9YCDxH7+g=
 github.com/alexandre-normand/marcopoller v1.0.0/go.mod h1:XYIfwZiRt+baYC9H9xHQvsw3gW9MM7XySmlQLYbYSIM=
+github.com/alexandre-normand/marcopoller v1.1.0 h1:7Iz36Zy0M1Rtxu7cFHp+1IqgVikcfMFC1EoiEF8q2Po=
+github.com/alexandre-normand/marcopoller v1.1.0/go.mod h1:XYIfwZiRt+baYC9H9xHQvsw3gW9MM7XySmlQLYbYSIM=
 github.com/alexandre-normand/slackscot v1.34.0 h1:Eu3K4oIh7J+e/GEwscxYig59TLBLYBJyNnvMilPG9SQ=
 github.com/alexandre-normand/slackscot v1.34.0/go.mod h1:lmtILoRPgp0phi0MNfnn5LF0gCQeGM+tg6xtzRDCIpI=
 github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239/go.mod h1:2FmKhYUyUczH0OGQWaF5ceTx0UBShxjsH6f8oGKYe2c=
