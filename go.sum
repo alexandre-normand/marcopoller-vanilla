@@ -25,6 +25,10 @@ github.com/alexandre-normand/marcopoller v1.0.0 h1:H/4m1ae7jwIv4qvYOTSYSxS5pRt2o
 github.com/alexandre-normand/marcopoller v1.0.0/go.mod h1:XYIfwZiRt+baYC9H9xHQvsw3gW9MM7XySmlQLYbYSIM=
 github.com/alexandre-normand/marcopoller v1.1.0 h1:7Iz36Zy0M1Rtxu7cFHp+1IqgVikcfMFC1EoiEF8q2Po=
 github.com/alexandre-normand/marcopoller v1.1.0/go.mod h1:XYIfwZiRt+baYC9H9xHQvsw3gW9MM7XySmlQLYbYSIM=
+github.com/alexandre-normand/marcopoller v1.3.4 h1:09Bkytl7RrZAsGTor5RVB02kMWgzCN0kpkwlZujEPPA=
+github.com/alexandre-normand/marcopoller v1.3.4/go.mod h1:P2JPtQPq6AqUAwW8pcAry1AFVMNwFs5hq6bJTgt62Co=
+github.com/alexandre-normand/marcopoller v1.4.2 h1:0lvcq6oVpl9avBMhhwcdPTiParuHBQiY/aiDBAgc+ao=
+github.com/alexandre-normand/marcopoller v1.4.2/go.mod h1:P2JPtQPq6AqUAwW8pcAry1AFVMNwFs5hq6bJTgt62Co=
 github.com/alexandre-normand/slackscot v1.34.0 h1:Eu3K4oIh7J+e/GEwscxYig59TLBLYBJyNnvMilPG9SQ=
 github.com/alexandre-normand/slackscot v1.34.0/go.mod h1:lmtILoRPgp0phi0MNfnn5LF0gCQeGM+tg6xtzRDCIpI=
 github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239/go.mod h1:2FmKhYUyUczH0OGQWaF5ceTx0UBShxjsH6f8oGKYe2c=
